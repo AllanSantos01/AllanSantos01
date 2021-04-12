@@ -6,23 +6,23 @@
 
 Meu nome é *Allan Henrique Souza Santos* , tenho 20 anos de idade , moro em Barueri, sou muito feliz e extrovertido, focado sempre em aprender, não me vejo em outra área, não sendo em tecnologia.
 
-**Contato :telephone_receiver:**
+## Contato :telephone_receiver:
 
 - :iphone:  Celular : *(11)95439-1293*
 - :e-mail:  E-mail  : *allan_santos01@outlook.com*
 
-**Experiência :construction_worker:**
+## Experiência :construction_worker:
 
 Atualmente estou trabalhando na Empresa da Foursys, cargo de Trainee.
 
-**WorkSpace :computer:** 
+## WorkSpace :computer: 
 
 - Netbeans IDE 8.0.2
 - Eclipse IDE for Enterprise Java Developers - 2020-12
 - Visualg25
 - Scratch
 
-**Conhecimentos :bulb:**
+## Conhecimentos :bulb:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
 
