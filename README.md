@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
-    Meu nome é *Allan Henrique Souza Santos*, tenho 20 anos de idade , moro em Barueri, sou muito feliz e extrovertido, focado sempre em aprender, não me vejo em outra área, não sendo em tecnologia.
+Meu nome é *Allan Henrique Souza Santos*, tenho 20 anos de idade , moro em Barueri, sou muito feliz e extrovertido, focado sempre em aprender, não me vejo em outra área, não sendo em tecnologia.
 
 **Contato :telephone_receiver:**
 
@@ -14,7 +14,7 @@
 
 **Experiência :construction_worker:**
 
-    Atualmente estou trabalhando na Empresa da Foursys, cargo de Trainee.
+Atualmente estou trabalhando na Empresa da Foursys, cargo de Trainee.
 
 **WorkSpace :computer:** 
 
