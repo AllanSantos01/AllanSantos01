@@ -1,10 +1,9 @@
 ## Olá :grey_exclamation: Seja Bem-vindo.
 
 **Me encontre :mailbox_with_mail:**
+[![Connect on Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100040105850503/)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/allan-santos-3a1972203/) [![followersGit](https://img.shields.io/github/followers/AllanSantos01?style=social)](https://github.com/AllanSantos01) <img src="https://komarev.com/ghpvc/?username=AllanSantos01&label=Profile%20views&color=0e75b6&style=social" alt="Allan Henrique Souza Santos" />
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-Meu nome é *Allan Henrique Souza Santos* , tenho 20 anos de idade , moro em Barueri, sou muito feliz e extrovertido, focado sempre em aprender, não me vejo em outra área, não sendo em tecnologia.
+Meu nome é *Allan Henrique Souza Santos*, tenho 20 anos de idade, moro em Barueri, sou muito feliz e extrovertido, focado sempre em aprender, não me vejo em outra área, não sendo em tecnologia.
 
 ## Contato :telephone_receiver:
 
